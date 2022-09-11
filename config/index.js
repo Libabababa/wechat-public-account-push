@@ -20,7 +20,7 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "无敌漂亮大美女",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "oT0up5n469jEjVjHvPPJ_7Vhrx_Y",
+   *    id: "oT0up5oKS0sp0dYMwIrRsDc0ShH0",
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "CTrLcfLeznwLc2okGdEaVpeArPD6M5MAF54Eav4Oqrg",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "无敌漂亮大美女",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oT0up5n469jEjVjHvPPJ_7Vhrx_Y",
+      id: "oT0up5oKS0sp0dYMwIrRsDc0ShH0",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "CTrLcfLeznwLc2okGdEaVpeArPD6M5MAF54Eav4Oqrg",
       // 所在省份
