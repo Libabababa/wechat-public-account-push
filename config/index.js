@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "oT0up5oKS0sp0dYMwIrRsDc0ShH0",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "CTrLcfLeznwLc2okGdEaVpeArPD6M5MAF54Eav4Oqrg",
+   *    useTemplateId: "l-RFTYpN6iOuQjtza8D1UxDXUf1flYkcSuu0AIJ7Z9sg",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: ""
    *   },
@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oT0up5oKS0sp0dYMwIrRsDc0ShH0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "CTrLcfLeznwLc2okGdEaVpeArPD6M5MAF54Eav4Oqrg",
+      useTemplateId: "l-RFTYpN6iOuQjtza8D1UxDXUf1flYkcSuu0AIJ7Z9s",
       // 所在省份
       province: "浙江",
       // 所在城市
